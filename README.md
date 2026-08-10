@@ -1,3 +1,10 @@
+Before building make LocalPaths.props file in BetterCoinflips directory containing path to
+ - SCP SL Dedicated Server
+ - EXILED Installation
+Theres example provided in BetterCoinflips/LocalPaths.props.example
+
+
+
 # BetterCoinflips
 <a href="https://github.com/Mikihero/BetterCoinflips/releases"><img src="https://img.shields.io/github/downloads/Mikihero/BetterCoinflips/total?label=Downloads" alt="Downloads"></a>  
   
