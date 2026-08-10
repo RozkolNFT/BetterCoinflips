@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <SCPSLPath>E:\Path\To\SCP Secret Laboratory Dedicated Server\SCPSL_Data\Managed</SCPSLPath>
+    <ExiledPath>C:\Users\USERNAME\AppData\Roaming\EXILED\Plugins\dependencies</ExiledPath>
+  </PropertyGroup>
+</Project>

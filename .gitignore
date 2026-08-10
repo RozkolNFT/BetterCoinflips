@@ -3,3 +3,4 @@ obj/
 .idea/
 .vs/
 *.sln.DotSettings.*
+LocalPaths.props

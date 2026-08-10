@@ -263,7 +263,7 @@ namespace BetterCoinflips.Types
             {
                 var scpName = _scpNames.ToList().RandomItem();
                 
-                Cassie.MessageTranslated($"scp {scpName.Key} successfully terminated by automatic security system",
+                Exiled.API.Features.Cassie.MessageTranslated($"scp {scpName.Key} successfully terminated by automatic security system",
                     $"{scpName.Value} successfully terminated by Automatic Security System.");
             }),
 
